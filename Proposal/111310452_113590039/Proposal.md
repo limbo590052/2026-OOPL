@@ -9,9 +9,8 @@
 # Game Introduction
 Angry Birds 是一款 2D 類型多關卡益智遊戲，玩家需要透過彈弓發射不同種類的 Angry Bird 攻擊綠色的邪惡豬大本營，但這些豬會用各種不同的材料來防禦，對應不同的建築和防禦材料，不同種類的 Angry Bird 也有不同的能力和特色去打破防禦攻擊到邪惡豬。
 
-[遊戲連結](https://www.rovio.com/games/angry-birds-2/)
 [遊戲連結](https://www.angrybirds.com/)
-[遊玩畫面](https://www.youtube.com/watch?v=FSWoUGxGNEg)
+[遊玩畫面](https://www.youtube.com/watch?v=tmcG-vbI6DQ)
 
 # Development timeline
 第一階段：基礎框架與素材準備 (Week 01 - 04)
