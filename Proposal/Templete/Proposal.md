@@ -16,7 +16,7 @@ https://youtu.be/IpcKTU3Dq0I?si=0mD44JEQ46CpyCib
 # Development timeline
 
 - Week 1：準備素材
-  - [] 蒐集遊戲的素材(228放假)
+  - [ ] 蒐集遊戲的素材(228放假)
 
 - Week 2：討論遊戲流程細節與擴充性
   - [ ] 決定是否沿用state 
